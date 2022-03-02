@@ -4,7 +4,6 @@ namespace mis321_pa2_betsybryant
 {
     public class WillTurner : Character
     {
-        // public IAttack attackBehavior {get; set;}
         public WillTurner()
         {
             CharacterName = "Will Turner";
