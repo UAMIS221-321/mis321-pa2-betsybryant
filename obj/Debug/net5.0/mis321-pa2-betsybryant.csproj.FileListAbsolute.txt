@@ -1,0 +1,15 @@
+/Users/betsybryant/Desktop/MIS321/mis321-pa2-betsybryant/bin/Debug/net5.0/mis321-pa2-betsybryant.deps.json
+/Users/betsybryant/Desktop/MIS321/mis321-pa2-betsybryant/bin/Debug/net5.0/mis321-pa2-betsybryant.runtimeconfig.json
+/Users/betsybryant/Desktop/MIS321/mis321-pa2-betsybryant/bin/Debug/net5.0/mis321-pa2-betsybryant.runtimeconfig.dev.json
+/Users/betsybryant/Desktop/MIS321/mis321-pa2-betsybryant/bin/Debug/net5.0/mis321-pa2-betsybryant.dll
+/Users/betsybryant/Desktop/MIS321/mis321-pa2-betsybryant/bin/Debug/net5.0/ref/mis321-pa2-betsybryant.dll
+/Users/betsybryant/Desktop/MIS321/mis321-pa2-betsybryant/bin/Debug/net5.0/mis321-pa2-betsybryant.pdb
+/Users/betsybryant/Desktop/MIS321/mis321-pa2-betsybryant/obj/Debug/net5.0/mis321-pa2-betsybryant.csproj.AssemblyReference.cache
+/Users/betsybryant/Desktop/MIS321/mis321-pa2-betsybryant/obj/Debug/net5.0/mis321-pa2-betsybryant.GeneratedMSBuildEditorConfig.editorconfig
+/Users/betsybryant/Desktop/MIS321/mis321-pa2-betsybryant/obj/Debug/net5.0/mis321-pa2-betsybryant.AssemblyInfoInputs.cache
+/Users/betsybryant/Desktop/MIS321/mis321-pa2-betsybryant/obj/Debug/net5.0/mis321-pa2-betsybryant.AssemblyInfo.cs
+/Users/betsybryant/Desktop/MIS321/mis321-pa2-betsybryant/obj/Debug/net5.0/mis321-pa2-betsybryant.csproj.CoreCompileInputs.cache
+/Users/betsybryant/Desktop/MIS321/mis321-pa2-betsybryant/obj/Debug/net5.0/mis321-pa2-betsybryant.dll
+/Users/betsybryant/Desktop/MIS321/mis321-pa2-betsybryant/obj/Debug/net5.0/ref/mis321-pa2-betsybryant.dll
+/Users/betsybryant/Desktop/MIS321/mis321-pa2-betsybryant/obj/Debug/net5.0/mis321-pa2-betsybryant.pdb
+/Users/betsybryant/Desktop/MIS321/mis321-pa2-betsybryant/obj/Debug/net5.0/mis321-pa2-betsybryant.genruntimeconfig.cache
